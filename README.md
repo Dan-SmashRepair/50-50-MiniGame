@@ -1,4 +1,4 @@
-#RLBot Script 50-50-MiniGame
+#RLBot Script for running 50/50 MiniGame
 
 ![Omus_0-5B](https://user-images.githubusercontent.com/46916734/157023753-4261787c-cff4-46e5-bd62-1707213e848a.gif)
 
