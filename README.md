@@ -4,9 +4,9 @@
 
 Simply be the first to touch the ball outside the middle circle.
 
-Recommended but not required:
-- Disable goal reset
-- Tickrate = 120
-- Map: Mannfield for clear center circle, but any standard map will work
+**Recommended, but non-essential settings**
+- Respawn Time: Disable goal reset
+- Tickrate: 120
+- Map: Mannfield for clear center circle
 
 I'm currently training Omus (pictured), a RLGym bot specific to this gamemode. The end goal is to have a 50/50 sparing partner for humans and bots of all levels
