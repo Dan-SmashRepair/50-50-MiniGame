@@ -9,7 +9,4 @@ Recommended but not required: Disable goal reset
 I'm currently training Omus, a RLGym bot specific to this gamemode. The end goal is to have a 50/50 sparing partner for humans and bots of all levels
 
 
-
-
-https://user-images.githubusercontent.com/46916734/157020435-22ea5304-94a5-4186-9060-522099c8757c.mp4
-
+![Omus_0-5B](https://user-images.githubusercontent.com/46916734/157021778-21e3a1ee-0d38-4ddb-bc3d-cc227e2cdac3.gif)
