@@ -67,7 +67,7 @@ class FiftyFiftyMiniGame(BaseScript):
             self.game_phase = -1
             self.set_game_state(GameState(game_info=GameInfoState(paused=True)))
             
-        # wait 1s then resume
+        # wait then resume
         if self.game_phase == -1 and self.ticks - self.prev_ticks == 60:
             self.set_game_state(GameState(game_info=GameInfoState(paused=False)))
             self.game_phase = 1
